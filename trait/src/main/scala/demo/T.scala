@@ -30,4 +30,3 @@ trait Animal_0 {
 class Dog (val name: String)
 class Cat (val name: String) extends Animal
 
-
